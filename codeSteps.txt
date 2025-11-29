@@ -30,3 +30,4 @@ git push -u origin main
 # added AuthProvider in router.jsx file.
 # adding hooks folder : hooks -> UseAuth.jsx file.
 # making social Login with google Auth -> SocialLogin -> SocialLogin.jsx file.
+# added login logOut conditionaly in the Navbar.
