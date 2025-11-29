@@ -13,4 +13,5 @@ git push -u origin main
 # open the folder in VS code and run above commands in VS code terminal.
 # created vite react project named zap-shift-client.
 # installing tailwind, react router , daisyUI.
+# setting react router .
 # 
