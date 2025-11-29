@@ -14,4 +14,6 @@ git push -u origin main
 # created vite react project named zap-shift-client.
 # installing tailwind, react router , daisyUI.
 # setting react router .
-# 
+# using urbanist font in the project.
+# making a folder called layouts with RootLayout.jsx file.
+# making a folder called pages and in that making a folder called Home and Shared and in the Shared folder make a folder named Footer and in the Footer folder make a file named Footer.jsx.
