@@ -21,3 +21,4 @@ git push -u origin main
 # making components folder components -> Logo -> Logo.jsx.
 # adding custom theme using daisyUI. 
 # making pages -> Home -> Banner -> Banner.jsx.
+# making pages -> Home -> Brands -> Brands.jsx.
