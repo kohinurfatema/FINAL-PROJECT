@@ -32,3 +32,4 @@ git push -u origin main
 # making social Login with google Auth -> SocialLogin -> SocialLogin.jsx file.
 # added login logOut conditionaly in the Navbar.
 # added PrivateRoute routes -> privateRoute.jsx file.
+# navigating rider component.
