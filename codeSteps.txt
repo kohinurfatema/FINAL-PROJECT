@@ -24,4 +24,7 @@ git push -u origin main
 # making pages -> Home -> Brands -> Brands.jsx.
 # making pages -> Home -> Reviews -> Reviews.jsx and ReviewsCard.jsx.
 # making pages -> Home -> Coverage -> Coverage.jsx.
-#
+# making firebase.init.js file with credentials.
+# making AuthLayout.jsx and pages -> Auth -> Login -> Login.jsx, Auth -> Register -> Register.jsx file.
+# created context -> AuthContext -> AuthContext.jsx file.
+# added AuthProvider in router.jsx file.
