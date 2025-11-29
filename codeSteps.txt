@@ -20,3 +20,4 @@ git push -u origin main
 # making NavBar folder and in the NavBar folder making NavBar.jsx file. And in the pages Home folder Home -> Home folder -> Home component.
 # making components folder components -> Logo -> Logo.jsx.
 # adding custom theme using daisyUI. 
+# making pages -> Home -> Banner -> Banner.jsx.
