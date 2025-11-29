@@ -1,0 +1,14 @@
+# making project folder named FINAL-PROJECT.
+# created text file named codeSteps.txt.
+# created a git repo with github UI.
+# connect local folder with that github repo.
+
+git init
+git add .
+git commit -m "added codeSteps.txt file"
+git branch -M main
+git remote add origin https://github.com/kohinurfatema/FINAL-PROJECT.git
+git push -u origin main
+
+# open the folder in VS code and run above commands in VS code terminal.
+ 
