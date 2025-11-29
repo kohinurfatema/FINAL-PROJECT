@@ -18,3 +18,4 @@ git push -u origin main
 # making a folder called layouts with RootLayout.jsx file.
 # making a folder called pages and in that making a folder called Home and Shared and in the Shared folder make a folder named Footer and in the Footer folder make a file named Footer.jsx.
 # making NavBar folder and in the NavBar folder making NavBar.jsx file. And in the pages Home folder Home -> Home folder -> Home component.
+# making components folder components -> Logo -> Logo.jsx.
