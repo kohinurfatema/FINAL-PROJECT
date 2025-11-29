@@ -28,3 +28,4 @@ git push -u origin main
 # making AuthLayout.jsx and pages -> Auth -> Login -> Login.jsx, Auth -> Register -> Register.jsx file.
 # created context -> AuthContext -> AuthContext.jsx file.
 # added AuthProvider in router.jsx file.
+# adding hooks folder : hooks -> UseAuth.jsx file.
