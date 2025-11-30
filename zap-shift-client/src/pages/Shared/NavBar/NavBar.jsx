@@ -1,8 +1,7 @@
 import React from 'react';
 import Logo from '../../../components/Logo/Logo';
 import { Link, NavLink } from 'react-router';
-import useAuth from '../../../hooks/UseAuth';
-
+import useAuth from '../../../hooks/useAuth';
 
 const NavBar = () => {
 
@@ -19,7 +18,15 @@ const NavBar = () => {
     const links = <>
         <li><NavLink to="">Services</NavLink></li>
         <li><NavLink to="">About Us</NavLink></li>
+        <li><NavLink to="/send-parcel">Send Parcel</NavLink></li>
         <li><NavLink to="/coverage">Coverage</NavLink></li>
+
+        {
+            user && <>
+                <li><NavLink to="/dashboard/my-parcels">My Parcels</NavLink></li>
+            </>
+        }
+
     </>
     return (
         <div className="navbar bg-base-100 shadow-sm">
@@ -49,9 +56,9 @@ const NavBar = () => {
                         <a onClick={handleLogOut} className="btn">Log Out</a>
                         : <Link className='btn' to="/login">Log in</Link>
                 }
-                <Link 
-                className='btn btn-primary text-black mx-4' 
-                to="/rider">Be a Rider</Link>
+                <Link
+                    className='btn btn-primary text-black mx-4'
+                    to="/rider">Be a Rider</Link>
             </div>
         </div>
     );
