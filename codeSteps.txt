@@ -33,3 +33,14 @@ git push -u origin main
 # added login logOut conditionaly in the Navbar.
 # added PrivateRoute routes -> privateRoute.jsx file.
 # navigating rider component.
+# making send-parcel pages -> SendParcel -> SendParcel.jsx.
+# setting router and navbar for SendParcel.
+# making SendParcel component.
+# starting up the backEnd project named zap-shift-server with these commands: 
+  * mkdir zap-shift-server
+  * cd zap-shift-server
+  * npm init -y
+  * code ..
+  * npm i express cors dotenv mongodb
+
+
